@@ -8,10 +8,16 @@ Click below to view the interactive dashboard (no download needed):
 
 ![Photo](https://github.com/user-attachments/assets/c2147d17-63cd-4df9-bca4-27f3867babcc)
 
+🔧 Technical Specifications 
+Tool: Tableau Desktop/Public
+Data Period: 2021-2022 (comparative analysis)
+Geographic Coverage: United Kingdom
+Update Frequency: Annual
+Map Integration: Mapbox and OpenStreetMap
+Use Cases
 
 
-
-Interactive Tableau dashboard analyzing UK road accidents for 2022. Visualizes 144,419 accidents and 195,737 casualties with 11% YoY improvement. Features temporal trends, vehicle type breakdowns, weather/road surface analysis, geographic hotspots, and severity filtering. Helps identify risk factors and supports data-driven road safety decisions.
+Interactive Tableau dashboard analyzing UK road accidents for 2022. Visualizes 144,419 accidents and 195,737 casualties with 11% YoY improvement. Features temporal trends, vehicle type breakdowns, weather/road surface analysis, geographic hotspots, and severity filtering.
 Purpose : The primary objective of this dashboard is to provide a holistic view of road accident statistics across the United Kingdom, helping to:
 
 Monitor road safety performance year-over-year
@@ -88,13 +94,7 @@ Single carriageways account for 2,113 fatal casualties (74% of total)
 Dual carriageways: 677 fatal casualties (significantly safer)
 
 
-🔧 Technical Specifications 
-Tool: Tableau Desktop/Public
-Data Period: 2021-2022 (comparative analysis)
-Geographic Coverage: United Kingdom
-Update Frequency: Annual
-Map Integration: Mapbox and OpenStreetMap
-Use Cases
+
 
 Safety Campaign Planning - Identify which vehicle types or road conditions require targeted awareness campaigns
 Infrastructure Investment - Prioritize road improvements based on casualty data by road type
